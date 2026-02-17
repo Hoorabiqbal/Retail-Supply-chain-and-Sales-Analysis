@@ -77,45 +77,31 @@ The interactive dashboard includes:
 Sales peaks during specific months indicate strong seasonal demand patterns.
 
 💸 2. Revenue Growth ≠ Profit Growth
-
 Sales increases are not translating into proportional profit increases due to margin compression.
 
 📦 3. High Sales, Low Profit Products
-
 Certain products generate strong revenue but weak profit margins, indicating pricing or cost inefficiencies.
 
 🌍 4. Regional Profit Imbalance
-
 Some regions contribute high sales but lower profitability, suggesting operational or pricing challenges.
 
 🎯 5. Discounts Are Hurting Profit
-
 Higher discount levels correlate with reduced profit margins, proving that aggressive discounting impacts sustainability.
 
 📌 Business Recommendations
-
 Optimize discount strategy for low-margin products
-
 Focus marketing efforts on high-profit categories
-
 Review pricing structure in underperforming regions
-
 Plan inventory and campaigns based on seasonal demand
 
 📂 Project Deliverables
-
 SQL Analysis Queries
-
 Cleaned Dataset
-
 Power BI Dashboard
-
 Business Insight Summary
 
 🚀 Project Impact
-
 This project demonstrates:
-
 ✔ Real-world business problem solving
 ✔ KPI-driven analysis
 ✔ SQL aggregation & performance analysis
@@ -123,7 +109,6 @@ This project demonstrates:
 ✔ Decision-oriented recommendations
 
 📬 Author
-
 Hoorab Iqbal
 Aspiring Data Analyst | SQL | Excel | Power BI
 
