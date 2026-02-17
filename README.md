@@ -2,10 +2,12 @@
 SQL + Power BI | Business Insights Project
 
 📌 Project Overview
+
 This project analyzes retail sales data to identify the key drivers behind sales fluctuations, profit inconsistencies, and regional performance gaps.
 The goal is to transform raw transactional data into actionable business insights using SQL for data analysis and Power BI for visualization.
 
 🎯 Business Objective
+
 To analyze retail sales data and uncover:
 Why sales fluctuate monthly
 Why profit does not always grow with sales
@@ -14,27 +16,30 @@ Which regions require strategic improvement
 Whether discount strategies are negatively impacting profitability
 
 🏢 Business Scenario
+
 Management observed that:
 
 Sales increase in certain months but drop in others
-
 Profit is not increasing proportionally with sales
 Some regions are underperforming
 Heavy discounting may be affecting margins
 However, they lacked data-driven clarity on the root causes.
 This analysis provides structured answers to those business concerns.
 
-👥 Stakeholders
+👥 Stakeholders:
+
 Retail Manager – Improve monthly sales stability
 Finance Manager – Monitor profit margins & discount impact
 Sales Team Lead – Identify top and underperforming products
 
 🛠 Tools & Technologies
+
 SQL (Data Cleaning & Analysis)
 Power BI (Dashboard & Visualization)
 CSV Retail Dataset (Superstore-style data)
 
 📊 Key Performance Indicators (KPIs)
+
 Total Sales
 Total Profit
 Profit Margin
@@ -46,6 +51,7 @@ Repeat Customers
 Average Order Value
 
 🔍 SQL Analysis Process
+
 1️⃣ Data Cleaning
 Checked for NULL values
 Validated date formats
@@ -66,6 +72,7 @@ Compared revenue and profit contribution by region.
 Measured the relationship between discount levels and profitability.
 
 📈 Power BI Dashboard
+
 The interactive dashboard includes:
 📈 Monthly Sales Trend (Line Chart)
 📊 Sales & Profit by Region (Bar Chart)
@@ -74,6 +81,7 @@ The interactive dashboard includes:
 📌 KPI Cards (Sales, Profit, Margin, Discount)
 
 💡 Key Insights
+
 📉 1. Sales Fluctuation is Seasonal
 Sales peaks during specific months indicate strong seasonal demand patterns.
 
@@ -90,18 +98,21 @@ Some regions contribute high sales but lower profitability, suggesting operation
 Higher discount levels correlate with reduced profit margins, proving that aggressive discounting impacts sustainability.
 
 📌 Business Recommendations
+
 Optimize discount strategy for low-margin products
 Focus marketing efforts on high-profit categories
 Review pricing structure in underperforming regions
 Plan inventory and campaigns based on seasonal demand
 
 📂 Project Deliverables
+
 SQL Analysis Queries
 Cleaned Dataset
 Power BI Dashboard
 Business Insight Summary
 
 🚀 Project Impact
+
 This project demonstrates:
 ✔ Real-world business problem solving
 ✔ KPI-driven analysis
