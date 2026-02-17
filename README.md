@@ -1,5 +1,6 @@
 🛒 Retail Sales Performance Analysis
 SQL + Power BI | Business Insights Project
+
 📌 Project Overview
 This project analyzes retail sales data to identify the key drivers behind sales fluctuations, profit inconsistencies, and regional performance gaps.
 The goal is to transform raw transactional data into actionable business insights using SQL for data analysis and Power BI for visualization.
