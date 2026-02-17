@@ -28,9 +28,12 @@ This analysis provides structured answers to those business concerns.
 
 👥 Stakeholders:
 
-Retail Manager – Improve monthly sales stability
-Finance Manager – Monitor profit margins & discount impact
-Sales Team Lead – Identify top and underperforming products
+Retail Manager 
+– Improve monthly sales stability
+Finance Manager
+– Monitor profit margins & discount impact
+Sales Team Lead 
+– Identify top and underperforming products
 
 🛠 Tools & Technologies
 
